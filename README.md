@@ -8,7 +8,7 @@
 >
 >使用语言: PHP72
 >
->安装方法: 从作者主页下载安装
+>安装: [Gihub](https://github.com/cxb-soft/Typecho_Manager)
 >
 >主要功能: 提供Typecho管理服务
 
